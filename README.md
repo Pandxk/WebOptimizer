@@ -31,3 +31,7 @@ Esta aplicación web local permite a cualquier usuario subir lotes de imágenes 
    python app.py
    ```
 4. Abre tu navegador y visita `http://127.0.0.1:7860`.
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
